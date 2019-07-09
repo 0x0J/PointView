@@ -7,3 +7,4 @@ A rudimentary image viewer I made just for fun.
 Python 3.6,
 Tkinter and PIL
 
+#### Licensed under GPLv3.0
